@@ -1,6 +1,9 @@
 
 # Created by https://www.gitignore.io/api/osx,vim,node
 
+### HTML ###
+index.html
+
 ### OSX ###
 .DS_Store
 .AppleDouble
