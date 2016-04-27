@@ -2,7 +2,7 @@
 # Created by https://www.gitignore.io/api/osx,vim,node
 
 ### HTML ###
-index.html
+*.html
 
 ### OSX ###
 .DS_Store
